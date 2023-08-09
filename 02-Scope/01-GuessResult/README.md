@@ -8,3 +8,4 @@ function sayHi() {
 name = 'Pete';
 sayHi(); // *
 ```
+
